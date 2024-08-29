@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+""" 
+island perimeter ps
+"""
 def island_perimeter(grid):
     """
     Calculates the perimeter of the island described in grid.
